@@ -11,3 +11,6 @@ The android app can diagnose dyslexia, engage the young, facilitate reading for 
 - SQLite
 - Google Play service OCR
 - Dyslexia Font
+
+## Setup
+To run the project open the project file in Android studio and generate the apk then install it on your android phone
